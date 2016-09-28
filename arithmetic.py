@@ -7,19 +7,25 @@ def subtract(num1, num2):
     return num1 - num2
 
 def multiply(num1, num2):
-    pass
+    """This function returns the result of num1 multiplied by num2"""
+    return num1 * num2
 
 def divide(num1, num2):
-    pass
+    """This function returns the result of num1 divided by num2"""
+    return num1 / num2
 
 def square(num1):
-    pass
+    """This function raises the num1 to the power of num1"""
+    return num1 * num1
 
 def cube(num1):
-    pass
+    """This function returns the result of num1 cubed"""
+    return num1 * num1 * num1
 
 def power(num1, num2):
-    pass
+    """This function returns the results of raising the first input to the power of the second input"""
+    return num1 ** num2 
 
 def mod(num1, num2):
-    pass
+    """This function returns the remainder for num1 divided by num2"""
+    return num1 % num2
