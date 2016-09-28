@@ -12,7 +12,7 @@ def multiply(num1, num2):
 
 def divide(num1, num2):
     """This function returns the result of num1 divided by num2"""
-    return num1 / num2
+    return float(num1) / num2
 
 def square(num1):
     """This function raises the num1 to the power of num1"""
